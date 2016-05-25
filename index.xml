@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>�ҵĵ�һ������</title>
+    <title>my first block</title>
     <link>http://zhengvip.github.io/zhengVIp/</link>
-    <description>Recent content on �ҵĵ�һ������</description>
+    <description>Recent content on my first block</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <language>zh-cn</language>
     <lastBuildDate>Sun, 03 Apr 2016 10:25:22 +0800</lastBuildDate>
     <atom:link href="http://zhengvip.github.io/zhengVIp/index.xml" rel="self" type="application/rss+xml" />
     
